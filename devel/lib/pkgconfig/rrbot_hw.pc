@@ -1,0 +1,8 @@
+prefix=/home/sergi/catkin_ws/devel
+
+Name: rrbot_hw
+Description: Description of rrbot_hw
+Version: 0.0.1
+Cflags: -I/home/sergi/catkin_ws/src/rrbot/rrbot_hw/include
+Libs: -L/home/sergi/catkin_ws/devel/lib -lrrbot_hw -ldefault_rrbot_hw_sim -lrrbot_hw_sim_plugin
+Requires: hardware_interface controller_manager roscpp control_msgs trajectory_msgs pluginlib transmission_interface urdf control_toolbox joint_limits_interface gazebo_ros

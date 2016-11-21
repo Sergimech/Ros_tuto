@@ -1,0 +1,2 @@
+beginner_tutorials:rrbot/rrbot:rrbot/rrbot_controllers:rrbot/rrbot_description:rrbot/rrbot_gazebo:rrbot/rrbot_hw:rrbot/rrbot_launch:rrbot/rrbot_transmission:rrbot/single_rrbot_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/sergi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sergi/catkin_ws/install -G Unix Makefiles
